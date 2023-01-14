@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+
+body{
+  background-image: url("oboi.jpeg");
+  background-size: cover;
+  margin: 0;
+}
+.chad{
+  font-size: 24px;
+  background-color: #00ff11;
+  margin: 10px;
+  width: 600px;
+  padding: 10px;
+  border: 3px solid black;
+  border-radius: 20px;
+  font-family: 'Boogaloo', cursive;
+  margin-left: 32%;
+}
+.break{
+  clear: both;
+}
+.pot{
+  float: left;
+  font-size: 25px;
+  padding: 10px;
+  font-family: 'Boogaloo', cursive;
+}
+.pot:hover{
+  background-color: black;
+  cursor: pointer;
+  transition: all 0.4s linear;
+}
+.pot:hover a {
+  color: white;
+}
+.manu{
+  background-color: #00ff11;
+  border-bottom: 3px solid black;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.bob{
+  margin: 15px;
+  background-color: #00ff11;
+  width: 600px;
+  font-size: 20px;
+  padding: 10px;
+  border: 3px solid black;
+  border-radius: 20px;
+  font-family: 'Boogaloo', cursive;
+  margin-left: 32%;
+}
+.bob:hover{
+  background-color: black;
+  transition: all 0.4s linear;
+}
+.bob:hover a{
+  color: white;
+}
+.des{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 100px;
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 46%;
+}
+.kub{
+  margin: 20px;
+  margin-left: 32%;
+}
+.popa{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 700px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin: 15px;
+  margin-left: 26.6%;
+}
+.dec{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 120px;
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 45%;
+}
+.dac{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 180px;
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 43.5%;
+}
+.tac{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 210px;
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 43%;
+}
+.kac{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 140px;
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 44%;
+}
+.kec{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 160px;
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 44%;
+}
+.tec{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 240px;
+  font-size: 27px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 42%;
+}
+.ter{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 100px;
+  font-size: 27px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 45%;
+}
+.kuc{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 170px;
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 44.4%;
+}
+.das{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 60px;
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 46.6%;
+}
+.tak{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 310px;
+  font-size: 27px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 40%;
+}
+.tet{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 80px;
+  font-size: 27px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 45.5%;
+}
+.ket{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 60px;
+  font-size: 27px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 47%;
+}
+.kep{
+  font-family: 'Boogaloo', cursive;
+  background-color: #00ff11;
+  width: 200px;
+  font-size: 27px;
+  margin: 15px;
+  padding: 15px;
+  border: solid black;
+  border-radius: 20px;
+  margin-left: 43%;
+}
